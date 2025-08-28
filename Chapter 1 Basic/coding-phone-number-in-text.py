@@ -7,6 +7,6 @@ numbers = ("Zero" , "One" , "Two" , "Three" , "Four" , "Five" , "Six" , "Seven" 
 write = []
 
 for i in phone:
-    write.append(numbers[int(i)])
+    write.append(numbers[int(i)]) 
 
 print(write)
